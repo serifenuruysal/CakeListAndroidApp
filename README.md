@@ -1,6 +1,7 @@
 # CakeListAndroidApp
 The application loads and displays a list of cakes and apply filter on items. There is also pull to refresh feature and refresh option when service gets error.
-MVVM design pattern with Jetpack, Hilt, Coroutine, Lifecycle Components, Retrofit, Glide and Mockito libraries have used 
+MVVM design pattern with Jetpack, Hilt, Coroutine, Lifecycle Components, Retrofit, Glide and Mockito libraries have used.
+Unit tests implemented with junit and mockito libraries.
 
 
 ## Libraries
